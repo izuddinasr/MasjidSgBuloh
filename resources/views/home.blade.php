@@ -52,7 +52,7 @@
         </div>
 
       </main>
-@include('footer')
+@include('layouts.footer')
 
     </div> <!-- /container -->
 
